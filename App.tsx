@@ -161,6 +161,7 @@ export default function App() {
             withFlagButton,
             onSelect,
             disableNativeModal,
+            preferredCountries: ['US', 'GB'],
             modalProps: {
               visible,
             },
